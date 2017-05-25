@@ -1,0 +1,21 @@
+Considere o banco:
+- setores (id, nome(string), descricao(text) )
+- salas (id, nome(string), setor_id, capacidade(int) )
+- alunos (id, nome(string), matricula(string) )
+- sala_tem_alunos (id, sala_id, aluno_id)
+
+Faça as classes necessárias para o código abaixo funcionar:
+
+Setor nit = Setor.busca_por_nome("Nit");
+List<Sala> salas_do_nit = nit.salas(); 
+List<Sala> salas_do_nit_acima_de_20 = nit.salas_com_capacidade(20);
+Sala sala_8 = nit.adicionar_sala("Sal oito");
+sala_8.nome = "Sala 8";
+sala_8.save();
+Aluno joao = Aluno.buscar_por_matricula("12345");
+sala_8.adicionar_aluno(joao);
+Aluno maria = Aluno.buscar_por_matricula("54321");
+sala_8.remover_aluno(maria); //sei fazer
+List<Aluno> alunos_da_sala_8 = sala_8.alunos(); //sei fazer
+Sala sala9 = nit.buscar_sala_por_nome("Sala 9");
+sala9.remover();

@@ -1,0 +1,12 @@
+C:\Users\User\Google Drive\IFRN\BD\Exercicio 5\ExercicioBD5\ExercicioBD5\bin\Debug\ExercicioBD5.exe.config
+C:\Users\User\Google Drive\IFRN\BD\Exercicio 5\ExercicioBD5\ExercicioBD5\obj\Debug\ExercicioBD5.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\IFRN\BD\Exercicio 5\ExercicioBD5\ExercicioBD5\obj\Debug\ExercicioBD5.Form1.resources
+C:\Users\User\Google Drive\IFRN\BD\Exercicio 5\ExercicioBD5\ExercicioBD5\obj\Debug\ExercicioBD5.Properties.Resources.resources
+C:\Users\User\Google Drive\IFRN\BD\Exercicio 5\ExercicioBD5\ExercicioBD5\obj\Debug\ExercicioBD5.csproj.GenerateResource.Cache
+C:\Users\User\Google Drive\IFRN\BD\Exercicio 5\ExercicioBD5\ExercicioBD5\bin\Debug\ExercicioBD5.exe
+C:\Users\User\Google Drive\IFRN\BD\Exercicio 5\ExercicioBD5\ExercicioBD5\bin\Debug\ExercicioBD5.pdb
+C:\Users\User\Google Drive\IFRN\BD\Exercicio 5\ExercicioBD5\ExercicioBD5\obj\Debug\ExercicioBD5.exe
+C:\Users\User\Google Drive\IFRN\BD\Exercicio 5\ExercicioBD5\ExercicioBD5\obj\Debug\ExercicioBD5.pdb
+C:\Users\izael_000\Desktop\Exercicio 5\ExercicioBD5\ExercicioBD5\bin\Debug\ExercicioBD5.exe.config
+C:\Users\izael_000\Desktop\Exercicio 5\ExercicioBD5\ExercicioBD5\obj\Debug\ExercicioBD5.exe
+C:\Users\izael_000\Desktop\Exercicio 5\ExercicioBD5\ExercicioBD5\obj\Debug\ExercicioBD5.pdb
